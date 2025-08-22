@@ -18,14 +18,22 @@ Date range selection for custom analysis
 
 **Data Source**
 Dataset Name: Amazon Sales Data
+
 Duration: January 2019 – December 2024
+
 **Columns Included:**
+
 1.Order Date
+
 2.Product Category
+
 3.Region
+
 4.Sales Amount
+
 5.Quantity Sold
 
 **Insights You Can Gain**
 1.Which product categories performed best across the years?
+
 2.How did sales grow year over year from 2019 to 2024?
