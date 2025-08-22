@@ -34,6 +34,7 @@ Duration: January 2019 – December 2024
 5.Quantity Sold
 
 **Insights You Can Gain**
+
 1.Which product categories performed best across the years?
 
 2.How did sales grow year over year from 2019 to 2024?
