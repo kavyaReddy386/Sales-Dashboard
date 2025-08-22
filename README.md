@@ -11,7 +11,9 @@ Date range selection for custom analysis
 **Visual Components**
 
 **Sales Trend Analysis**: Line chart showing monthly or yearly sales performance
+
 **Top Categories by Sales**: Bar/Column chart for top-performing product categories
+
 **Sales by Region**: Map or pie chart to visualize geographical distribution
 
 **Data Source**
